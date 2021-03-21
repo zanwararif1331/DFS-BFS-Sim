@@ -1,3 +1,7 @@
+Nama    : Zanwar Arif Wicaksono
+NPM     : 1184050
+Kelas   : D4 TI 3A
+
 Proyek kami bertujuan untuk mensimulasikan teknik traversal grafik menggunakan algoritma BFS dan DFS.
 
     Algoritme DFS bekerja sebagai berikut:
